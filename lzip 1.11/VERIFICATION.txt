@@ -1,0 +1,17 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The tool was downloaded from the download page <http://download.savannah.gnu.org/releases/lzip/> linked 
+from the project site <http://www.nongnu.org/lzip/>. To verify the exe:
+
+1. Go to <http://download.savannah.gnu.org/releases/lzip/lzip-1.19-w32.zip>
+   to download the released binary archive which includes "/bin/lzip.exe"
+2. You can use one of the following methods to obtain the checksum
+  - Use powershell function 'Get-Filehash'
+  - Use chocolatey utility 'checksum.exe'
+
+  checksum type: sha256
+  checksum: 4264300D63BAF81B95F1E01972FD0923BF7CDFF2C34DF0A27CA151E0C0357FE0
+
+File 'LICENSE.txt' is obtained from the project page text <http://www.nongnu.org/lzip/>
