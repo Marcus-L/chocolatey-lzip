@@ -1,4 +1,4 @@
-﻿  <?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lzip</id>
@@ -6,7 +6,7 @@
     <packageSourceUrl>https://github.com/Marcus-L/chocolatey-lzip</packageSourceUrl>
     <title>lzip</title>
     <authors>Antonio Diaz Diaz</authors>
-    <owner>Marcus Lum</owner>
+    <owners>Marcus Lum</owners>
     <projectUrl>http://www.nongnu.org/lzip</projectUrl>
     <copyright>Copyright (C) 2010 Antonio Diaz Diaz</copyright>
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
